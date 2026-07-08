@@ -1,4 +1,26 @@
- <style>
-        p{  color: slateblue; }
-        body {background-color: pink;}
-    </style>
+
+ p {  color: rgb(111, 94, 224);}
+ body { background-color: rgb(184, 210, 228); }
+ b {
+     color:brown;
+ }
+ i {
+    color:blueviolet;
+ }
+u {
+    color: green;
+}
+ul li {
+    color: palevioletred;
+}
+ol li {
+    color: navajowhite;
+}
+/*comentario para classes*/
+.primeiro_item {
+    color:blue;
+}
+/*comentario para ids*/
+#ultimo_item {
+    color:aqua;
+}
