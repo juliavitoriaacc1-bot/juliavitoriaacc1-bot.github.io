@@ -1,0 +1,50 @@
+#linha01 {
+    background-color: blue;
+    width: 150px;
+    height: 10%;
+    color: rgb(22, 111, 212);
+}
+#linha02 {
+    background-color: rgb(231, 89, 23);
+    width: 150px;
+    height: 10%;
+    color: rgb(103, 228, 1);
+}
+#linha03 {
+    background-color: rgb(226, 179, 25);
+    width: 150px;
+    height: 10%;
+    color: rgb(226, 141, 12);
+}
+#geral {
+    background-color: rgb(17, 219, 219);
+    width: 35px;
+    height: 10%;
+    color: rgb(22, 86, 204);
+}
+#geral #coluna01 {
+    background-color: rgb(93, 144, 185);
+    width: 35px;
+    height: 10%;
+    color: rgb(110, 231, 137);
+    float:left;
+}
+#geral #coluna02 {
+    background-color: aqua;
+    width: 30px;
+    height: 10%;
+    color: rgb(18, 86, 235);
+    float:left;
+
+}
+#geral #coluna03 {
+    background-color: rgb(218, 180, 233);
+    width: 150px;
+    height: 10%;
+    color: rgb(49, 3, 58);
+    float:left;
+    /*float: left;*/
+    clear:both
+
+}
+
